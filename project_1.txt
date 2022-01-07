@@ -1,2 +1,2 @@
-first GIT project.
+first GIT project .
 
